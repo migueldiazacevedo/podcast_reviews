@@ -1,0 +1,12 @@
+autopep8==2.3.1
+ipykernel==6.29.5
+ipython==8.28.0
+jupyter
+matplotlib==3.9.2
+matplotlib-inline==0.1.7  
+numpy==2.1.2
+pandas==2.2.3
+pyarrow==17.0.0
+scipy==1.14.1
+seaborn==0.13.2
+statsmodels==0.14.4
